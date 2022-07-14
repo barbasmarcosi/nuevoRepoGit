@@ -3,5 +3,3 @@ Something to complete this file
 And something to push
 
 Master 1
-
-Master 2
